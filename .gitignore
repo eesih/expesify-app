@@ -2,3 +2,5 @@ node_modules/
 .DS_Store
 .vscode/settings.json
 public/dist/
+.env.test
+.env.development
